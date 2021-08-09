@@ -23,11 +23,11 @@
 
 - **Python 3.7**
 
-
+ 
 - **Flask**
 - cmd>pip install Flask
 
-
+ 
 - **MySQL Connector**
 - cmd>pip install mysql-connector-python
 
