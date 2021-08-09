@@ -3,10 +3,14 @@
 Group Members :-
 
 Dhruv Sherathia c0797205
+
 Malav Patel c0797213
+
 Mahima Mulani c0787508
+
 Sukhdeep Shabla c0780729
-Swapnil Desai c0798010
+
+
 
 
 This project is to develop a college enquiry chatbot which answers any queries post by students like professor’s contact details, course related questions, location of university buildings etc.
