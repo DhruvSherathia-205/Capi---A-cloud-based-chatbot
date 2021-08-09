@@ -2,15 +2,15 @@
 
 **Group Members: -**
 
-Dhruv Sherathia c0797205
+- Dhruv Sherathia c0797205
 
-Malav Patel c0797213
+- Malav Patel c0797213
 
-Mahima Mulani c0787508
+- Mahima Mulani c0787508
 
-Ramandeep Bhatia (C0790371)
+- Ramandeep Bhatia c0790371
 
-Sukhdeep Shabla c0780729
+- Sukhdeep Shabla c0780729
 
 
 **Requirements: -**
