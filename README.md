@@ -6,25 +6,25 @@
 
 **Group Members: -**
 
-- Dhruv Sherathia c0797205
+1. Dhruv Sherathia c0797205
 
-- Malav Patel c0797213
+2. Malav Patel c0797213
 
-- Mahima Mulani c0787508
+3. Mahima Mulani c0787508
 
-- Ramandeep Bhatia c0790371
+4. Ramandeep Bhatia c0790371
 
-- Sukhdeep Shabla c0780729
+5. Sukhdeep Shabla c0780729
 
 
 
 
 **Requirements: -**
 
-1. **Python 3.7**
+- **Python 3.7**
 
  
-2. **Flask** --> **cmd>pip install Flask**
+- **Flask** --> **cmd>pip install Flask**
 
  
-3. **MySQL Connector** --> **cmd>pip install mysql-connector-python**
+- **MySQL Connector** --> **cmd>pip install mysql-connector-python**
