@@ -1,6 +1,6 @@
-*Capi - A cloud based chatbot*
+**Capi - A cloud based chatbot**
 
-Group Members :-
+*Group Members :-*
 
 Dhruv Sherathia c0797205
 
