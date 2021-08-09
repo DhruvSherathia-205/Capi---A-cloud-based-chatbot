@@ -28,3 +28,6 @@
 
  
 - **MySQL Connector** --> **cmd>pip install mysql-connector-python**
+
+
+**To run the chatbot run 'app.py' file and it will provide local host address, which we can run in local browser**
